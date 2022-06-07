@@ -1,9 +1,8 @@
-## DCNv2 with Pytorch 1.8+ & JIT Compilation
-
-[![CI testing](https://github.com/tteepe/DCNv2/actions/workflows/ci-testing.yml/badge.svg)](https://github.com/tteepe/DCNv2/actions/workflows/ci-testing.yml)
+## DCNv2 with Pytorch 1.11 & JIT Compilation
+Tested with torch 1.11 + CUDA 11.3
 
 ## Requirements
-- [PyTorch 1.8+](https://pytorch.org/get-started/locally/)
+- [PyTorch 1.11](https://pytorch.org/get-started/locally/)
 - [Ninja build](https://ninja-build.org)
 
 ```bash
